@@ -1,0 +1,71 @@
+
+00:00-00:09 *** Pause - 00:09 ***
+
+
+Filename: 000_foto1.lvt
+00:09-00:16  BLoad:   foto1                                        Speed: 152-157%, Checksum: OK, Sum: 000000
+00:17-02:12  <data>             Beg: 0100, End: 3150, Start: 0100, Speed: 149-158%, Checksum: OK, Sum: 1C3CD4
+
+02:12-02:16 *** Pause - 00:04 ***
+
+
+Filename: 001_foto2.lvt
+02:16-02:23  BLoad:   foto2                                        Speed: 150-156%, Checksum: OK, Sum: 000000
+02:24-04:19  <data>             Beg: 0100, End: 3150, Start: 0100, Speed: 149-156%, Checksum: OK, Sum: 23EB6B
+
+04:19-04:23 *** Pause - 00:04 ***
+
+
+Filename: 002_lab.lvt
+04:23-04:30  BLoad:   lab                                          Speed: 150-158%, Checksum: OK, Sum: 000000
+04:31-05:36  <data>             Beg: 0100, End: 1C00, Start: 0100, Speed: 150-155%, Checksum: OK, Sum: 08543D
+
+Filename: 003_boa.lvt
+05:39-05:45  BLoad:   boa                                          Speed: 150-158%, Checksum: OK, Sum: 000000
+05:46-06:19  <data>             Beg: 0100, End: 0E50, Start: 0100, Speed: 149-155%, Checksum: OK, Sum: 04C8DD
+
+06:19-06:23 *** Pause - 00:04 ***
+
+
+Filename: 004_TIME.lvt
+06:23-06:30  CLoad:   TIME                                         Speed: 150-156%, Checksum: OK, Sum: 000000
+06:31-06:43  <data>                                     Len: 0478, Speed: 150-156%, Checksum: OK, Sum: 015A67
+
+
+Filename: 005_REW.lvt
+06:46-06:53  CLoad:   REW                                          Speed: 150-156%, Checksum: OK, Sum: 000000
+06:54-07:42  <data>                                     Len: 13E3, Speed: 150-156%, Checksum: OK, Sum: 070EBB
+
+Filename: 006_AR_M.lvt
+07:46-07:52  CLoad:   AR?M                                         Speed: 149-158%, Checksum: OK, Sum: 000000
+07:53-08:12  <data>                                     Len: 0743, Speed: 151-156%, Checksum: OK, Sum: 031D2E
+
+Filename: 007_KVADR.lvt
+08:15-08:21  CLoad:   KVADR                                        Speed: 150-158%, Checksum: OK, Sum: 000000
+08:22-08:35  <data>                                     Len: 04B8, Speed: 150-155%, Checksum: OK, Sum: 019855
+
+Filename: 008_REK.lvt
+00:00-00:01  CLoad:   REK                                          Speed: 151-156%, Checksum: OK, Sum: 000000
+00:02-00:26  <data>                                     Len: 0963, Speed: 151-156%, Checksum: OK, Sum: 04AE49, Rest0: 4, Mid0: 8
+
+Filename: 009_BOI.lvt
+09:10-09:17  CLoad:   BOI                                          Speed: 150-156%, Checksum: OK, Sum: 000000
+09:18-09:54  <data>                                     Len: 0E94, Speed: 150-155%, Checksum: OK, Sum: 047380
+
+Filename: 010_ELEK.lvt
+09:57-10:04  CLoad:   ELEK                                         Speed: 150-155%, Checksum: OK, Sum: 000000
+10:05-10:38  <data>                                     Len: 0D43, Speed: 151-155%, Checksum: OK, Sum: 04F094
+
+10:38-10:42 *** Pause - 00:04 ***
+
+
+Filename: 011_RGB.lvt
+10:42-10:49  CLoad:   RGB                                          Speed: 150-156%, Checksum: OK, Sum: 000000
+10:50-10:59  <data>                                     Len: 0344, Speed: 151-156%, Checksum: OK, Sum: 00F365
+
+Filename: 012_RGB.lvt
+11:02-11:09  CLoad:   RGB                                          Speed: 151-156%, Checksum: OK, Sum: 000000
+11:10-11:19  <data>                                     Len: 0344, Speed: 151-155%, Checksum: OK, Sum: 00F365
+
+11:19-11:45 *** Pause - 00:25 ***
+
